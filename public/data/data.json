@@ -1,0 +1,67 @@
+[
+  {
+    "surname": "Иванов",
+    "name": "Иван",
+    "secondName": "Иванович",
+    "position": "Junior UI/UX designer",
+    "location": "Россия, Красноярск",
+    "time": "14:03",
+    "stats": [
+      {
+        "id": 1,
+        "name": "Доступно сейчас",
+        "daysNumber": 32,
+        "color": "#25824F"
+      },
+      {
+        "id": 2,
+        "name": "Запланировано",
+        "daysNumber": 8,
+        "color": "#FFB649"
+      },
+      {
+        "id": 3,
+        "name": "Использовано/недоступно",
+        "daysNumber": 4,
+        "color": "#DB4546"
+      }
+    ],
+    "vacationHistory": [
+      {
+        "id": 1,
+        "type": "Отпуск",
+        "start": "03 марта 2023",
+        "finish": "23 марта 2023",
+        "daysNumber": "20"
+      },
+      {
+        "id": 2,
+        "type": "Отгул",
+        "start": "03 марта 2023",
+        "finish": "7 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 3,
+        "type": "Отгул",
+        "start": "03 марта 2023",
+        "finish": "7 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 4,
+        "type": "Отгул",
+        "start": "03 марта 2023",
+        "finish": "7 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 5,
+        "type": "Отгул",
+        "start": "03 марта 2023",
+        "finish": "7 марта 2023",
+        "daysNumber": "4"
+      }
+    ]
+  }
+]
